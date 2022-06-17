@@ -32,7 +32,7 @@
         <druid.version>1.0.9</druid.version>
         <mysql.version>5.1.32</mysql.version>
         <jackson-databind>[2.8.11.1,)</jackson-databind>
-        <fastjsion-version>1.2.58</fastjsion-version>
+        <fastjsion-version>1.2.83</fastjsion-version>
         <fastdfs.version>1.27-SNAPSHOT</fastdfs.version>
         <commons-fileupload>[1.3.3,)</commons-fileupload>
         <commons-io>2.2</commons-io>
